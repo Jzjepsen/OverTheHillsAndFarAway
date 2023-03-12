@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/juliezepernickjepsen/RiderProjects/OverTheHillsAndFarAway/OverTheHillsAndFarAway/OverTheHillsAndFarAway.csproj",
+      "projectUniqueName": "/Users/juliezepernickjepsen/RiderProjects/SWD/Repos/OverTheHillsAndFarAway/OverTheHillsAndFarAway/OverTheHillsAndFarAway.csproj",
       "projectName": "OverTheHillsAndFarAway",
-      "projectPath": "/Users/juliezepernickjepsen/RiderProjects/OverTheHillsAndFarAway/OverTheHillsAndFarAway/OverTheHillsAndFarAway.csproj",
+      "projectPath": "/Users/juliezepernickjepsen/RiderProjects/SWD/Repos/OverTheHillsAndFarAway/OverTheHillsAndFarAway/OverTheHillsAndFarAway.csproj",
       "packagesPath": "/Users/juliezepernickjepsen/.nuget/packages/",
-      "outputPath": "/Users/juliezepernickjepsen/RiderProjects/OverTheHillsAndFarAway/OverTheHillsAndFarAway/obj/",
+      "outputPath": "/Users/juliezepernickjepsen/RiderProjects/SWD/Repos/OverTheHillsAndFarAway/OverTheHillsAndFarAway/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/juliezepernickjepsen/.nuget/NuGet/NuGet.Config"
