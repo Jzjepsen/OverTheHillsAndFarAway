@@ -3,7 +3,7 @@
 
 
 ## Intent
-This small programs intent is to show the observer pattern using teletubbies. 
+This small programs' intent is to show the observer pattern using teletubbies. 
 Lala is the only teletubby(observer) I've added. Feel free to copy and add Dipsy and Po.
 
 ## Class Diagram
